@@ -1,0 +1,12 @@
+{
+  "name": "FSM Practice",
+  "short_name": "FSM drill",
+  "description": "Fundamentals of Simulation Methods flashcards and drills",
+  "start_url": "mobile.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [{"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any"}]
+}
